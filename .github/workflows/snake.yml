@@ -1,4 +1,4 @@
-name: generate animated snake
+name: generate snake animations
 
 on:
   schedule:
@@ -19,21 +19,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate animated snake (light theme)
-        uses: jolaleye/github-contribution-snake@v1
+      # Generate light snake
+      - name: Generate light snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: light
-          output: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Generate animated snake (dark theme)
-        uses: jolaleye/github-contribution-snake@v1
+      # Generate dark snake
+      - name: Generate dark snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: dark
-          output: dist/github-contribution-grid-snake-dark.svg
+          palette: github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push generated snakes to output branch
+      # Push the generated snakes to the output branch
+      - name: Push snakes to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
