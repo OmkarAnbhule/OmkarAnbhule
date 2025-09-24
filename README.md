@@ -93,32 +93,57 @@
   <img src="https://github-profile-trophy.vercel.app/?username=OmkarAnbhule&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAnbhule&theme=tokyonight&border_radius=6" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarAnbhule&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAnbhule&layout=compact&theme=tokyonight" alt="langs" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=OmkarAnbhule&theme=tokyonight&border_radius=6" alt="streak"/>
-</p>
-
-
-
 ---
 
+<!--
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/OmkarAnbhule/OmkarAnbhule/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-  
-</p>
+-->
+  <!-- Light + Dark Snake -->
+<!-- 
+  <img src="https://raw.githubusercontent.com/OmkarAnbhule/OmkarAnbhule/output/github-contribution-grid-snake.svg" 
+       alt="Contribution Snake" 
+       height="150" 
+       style="display:block;" 
+       class="light-snake">
+-->
+
+<!-- 
+  <img src="https://raw.githubusercontent.com/OmkarAnbhule/OmkarAnbhule/output/github-contribution-grid-snake-dark.svg" 
+       alt="Contribution Snake" 
+       height="150" 
+       style="display:none;" 
+       class="dark-snake">
+-->
+<!-- </p>
+
+<style>
+@media (prefers-color-scheme: dark) {
+  .light-snake { display: none; }
+  .dark-snake { display: block; }
+}
+@media (prefers-color-scheme: light) {
+  .light-snake { display: block; }
+  .dark-snake { display: none; }
+}
+</style> -->
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/omkar-anbhule-web-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:omkaranbhule75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-website-five-eosin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
