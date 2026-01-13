@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hey 👋, I'm Omkar</h1>
-<h3 align="center">🚀 Developer | Backend Architect | AI + EdTech Explorer | Web3 Builder</h3>
+<h3 align="center">🚀 Senior Backend Lead | Backend Architect | AI + EdTech Explorer | Web3 Builder</h3>
 
 <p align="center">✨ “Code is best when it solves real problems — not just technical ones.”</p>
 
