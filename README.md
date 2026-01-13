@@ -85,8 +85,8 @@
   <img src="https://img.shields.io/badge/AR/VR-8E44AD?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
+<!----
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -98,12 +98,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarAnbhule&theme=tokyonight&border_radius=6" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarAnbhule&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAnbhule&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarAnbhule&show_icons=true&theme=tokyonight&cache_seconds=1800&token=" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarAnbhule&layout=compact&theme=tokyonight&cache_seconds=1800&token=" alt="langs" height="180"/>
 </p>
 
 ---
-
+-->
 <!--
 ### 🐍 Contribution Snake
 <p align="center">
